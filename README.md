@@ -16,11 +16,11 @@
 
 ```javascript
 const aayush = {
-  location:  "🌍 Nepal",
+  location:  "🌍 Kathmandu, Nepal",
   role:      "Frontend Developer",
   stack:     ["React", "Next.js", "Node.js", "TailwindCSS"],
   databases: ["MongoDB", "MySQL"],
-  currentlyBuilding: ["Elegance 🛍️", "ProConnect 🤝"],
+  currentlyBuilding: "🏋️ Hamro Fitness — Gym Management Platform",
   contact:   "work.aayushduwal@gmail.com",
   funFact:   "I debug with console.log and I'm not ashamed 😅"
 };
@@ -36,11 +36,15 @@ const aayush = {
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### ⚙️ Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ### 🗄️ Database
@@ -57,12 +61,42 @@ const aayush = {
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🛍️ **Elegance** | An E-commerce fashion website | React, Node.js, MongoDB |
-| 🤝 **ProConnect** | A professional networking platform | Next.js, TailwindCSS |
+### 🛍️ Elegance — E-commerce Fashion Platform
+> A full-stack e-commerce platform with user authentication, product management, and a modern UI.
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+### 🤝 ProConnect — Professional Networking Platform
+> A MERN stack platform where users create profiles, share posts, and showcase their portfolios.
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+</p>
+
+---
+
+### 🏋️ Hamro Fitness — Gym Management Platform `[ In Progress ]`
+> A web-based admin platform for managing gym operations — member management, active subscriptions, fitness tracking, and more.
+
+<p>
+  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+</p>
 
 ---
 

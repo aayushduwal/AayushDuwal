@@ -7,9 +7,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/aayushduwal?style=for-the-badge&logo=github&label=STARS&color=000000&cachSeconds=86400"/>
-  <img src="https://img.shields.io/github/forks/aayushduwal?style=for-the-badge&logo=github&label=FORKS&color=000000&cacheSeconds=86400"/>
-  <img src="https://img.shields.io/github/followers/aayushduwal?style=for-the-badge&logo=github&label=FOLLOWERS&color=000000&cacheSeconds=86400"/>
+  <img src="https://img.shields.io/github/stars/aayushduwal?style=for-the-badge&logo=github&label=STARS&color=9945ff&logoColor=white"/>
+  <img src="https://img.shields.io/github/followers/aayushduwal?style=for-the-badge&logo=github&label=FOLLOWERS&color=9945ff&logoColor=white"/>
 </p>
 
 ---

@@ -1,81 +1,104 @@
-# 👋 Hi, I'm Aayush Duwal
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdtcmNtbHVkdGFxazJwZ2U2MDBxa3Y1N2J4M216c3hnbHZ2c3B5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="600" height="300"/>
+</div>
 
-🚀 Frontend Developer | React & Next.js 
-<br>
-🌍 Nepal  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Aayush+Duwal+%F0%9F%91%8B;Frontend+Developer+%7C+React+%26+Next.js;Building+the+web%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=aayushduwal&label=PROFILE%20VIEWS&color=0e75b6&style=flat"/>
-  <img src="https://img.shields.io/github/followers/aayushduwal?label=FOLLOWERS&style=flat&color=0e75b6"/>
-  <img src="https://img.shields.io/github/stars/aayushduwal?label=STARS&style=flat&color=0e75b6"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aayushduwal&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/aayushduwal?label=FOLLOWERS&style=for-the-badge&color=00d9ff"/>
+  <img src="https://img.shields.io/github/stars/aayushduwal?label=STARS&style=for-the-badge&color=00d9ff"/>
 </p>
+
+---
+
+```javascript
+const aayush = {
+  location:  "🌍 Nepal",
+  role:      "Frontend Developer",
+  stack:     ["React", "Next.js", "Node.js", "TailwindCSS"],
+  databases: ["MongoDB", "MySQL"],
+  currentlyBuilding: ["Elegance 🛍️", "ProConnect 🤝"],
+  contact:   "work.aayushduwal@gmail.com",
+  funFact:   "I debug with console.log and I'm not ashamed 😅"
+};
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### Backend
+### ⚙️ Backend
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-### Database
+### 🗄️ Database
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### Tools
+### 🔧 Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Highlighted Project
+## 🚀 Highlighted Projects
 
-Elegance - An E-commerce fashion website
-<br>
-ProConnect - A professional networking platform
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🛍️ **Elegance** | An E-commerce fashion website | React, Node.js, MongoDB |
+| 🤝 **ProConnect** | A professional networking platform | Next.js, TailwindCSS |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushduwal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushduwal&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushduwal&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushduwal&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=aayushduwal&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aayushduwal&theme=tokyonight" />
-</p>
-
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushduwal&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushduwal&theme=tokyo-night&hide_border=true&area=true" />
 
 ---
 
 ## 📬 Connect With Me
 
-📧 Email: work.aayushduwal@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/aayush-duwal-753972244/  
-🌐 Website: https://www.aayushduwal.com.np/
+<p align="center">
+  <a href="mailto:work.aayushduwal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aayush-duwal-753972244/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.aayushduwal.com.np/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer"/>
+</div>

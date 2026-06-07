@@ -7,9 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayushduwal&label=PROFILE%20VIEWS&color=00d9ff&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/aayushduwal?label=FOLLOWERS&style=for-the-badge&color=00d9ff"/>
-  <img src="https://img.shields.io/github/stars/aayushduwal?label=STARS&style=for-the-badge&color=00d9ff"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aayushduwal&theme=darkhub&no-frame=true&row=1&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Stars,Forks,Followers"/>
 </p>
 
 ---

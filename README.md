@@ -115,7 +115,7 @@ const aayush = {
 
 ## 📈 Contribution Graph
 
-<img src="https://ghchart.rshah.org/00d9ff/aayushduwal" alt="Aayush's GitHub Contribution Chart" />
+<img src="https://ghchart.rshah.org/9945ff/aayushduwal" />
 
 ---
 

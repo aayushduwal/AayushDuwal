@@ -16,7 +16,7 @@
 
 ```javascript
 const aayush = {
-  location:  "🌍 Kathmandu, Nepal",
+  location:  "🌍 Bhaktapur, Nepal",
   role:      "Frontend Developer",
   stack:     ["React", "Next.js", "Node.js", "TailwindCSS"],
   databases: ["MongoDB", "MySQL"],
@@ -115,7 +115,7 @@ const aayush = {
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushduwal&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://ghchart.rshah.org/00d9ff/aayushduwal" alt="Aayush's GitHub Contribution Chart" />
 
 ---
 

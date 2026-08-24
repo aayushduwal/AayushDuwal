@@ -87,11 +87,10 @@ const aayush = {
 
 ---
 
-### 🏋️ Hamro Fitness — Gym Management Platform `[ In Progress ]`
+### 🏋️ Hamro Fitness — Gym Management Platform
 > A web-based admin platform for managing gym operations — member management, active subscriptions, fitness tracking, and more.
 
 <p>
-  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
